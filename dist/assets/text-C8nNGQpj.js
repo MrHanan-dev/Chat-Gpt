@@ -1,0 +1,1 @@
+import{_ as n}from"./PageContainer-3ORTAop1.js";import{_ as t,c as e,o as c}from"./index-vpsfEUb6.js";import"./VCard-DYEdAXLM.js";const _={};function r(s,a){const o=n;return c(),e(o)}const i=t(_,[["render",r]]);export{i as default};

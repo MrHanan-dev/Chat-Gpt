@@ -1,0 +1,1 @@
+import{c as o,o as n,w as e,V as r,r as s,a as t,b as c}from"./index-vpsfEUb6.js";const f={__name:"default",setup(_){return(l,u)=>{const a=s("RouterView");return n(),o(r,null,{default:e(()=>[t(c,null,{default:e(()=>[t(a)]),_:1})]),_:1})}}};export{f as default};
