@@ -130,5 +130,5 @@ Messages are stored in local storage using the `useStorage` hook from `@vueuse/c
 
 ## How can I support? 🌟
 
-- ⭐ Star my GitHub repo
+- ⭐ Star my GitHub repo and stay updated
 - 🛠 Create pull requests, submit bugs, suggest new features or updates
