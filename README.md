@@ -121,7 +121,7 @@ Messages are stored in local storage using the `useStorage` hook from `@vueuse/c
    - After signing in, navigate to your account settings or API section to generate a new API key specifically for ChatGPT.
    - Copy the generated API key.
 
-3. **Add OpenAI API Key to `.env` File:**
+3. **Add OpenAI API Key to `.env` File:
    - Open or create the `.env` file in your project directory.
    - Add your OpenAI API key to the `.env` file using the following format:
      ```env
